@@ -1,5 +1,5 @@
-<!-- Hi there, I'm Palantirr 👋 -->
-<!-- <h1 align="center">Palantirr</h1> -->
+<!-- Hi there, I'm Zoltan 👋 -->
+<!-- <h1 align="center">Zoltan</h1> -->
 <!-- <p align="center">
   <em>Postgraduate student</em>
 </p> -->
@@ -36,15 +36,15 @@
 
 ### Featured Project
 
-- **[Network-Intrusion-Detection](https://github.com/palantirr/Network-Intrusion-Detection)**  
+- **[Network-Intrusion-Detection](https://github.com/Militech/Network-Intrusion-Detection)**  
   <sub>
     Adapted from my Bachelor of Science dissertation, this project presents a refined approach to intrusion detection, bridging academic research of machine learning and real-world application.
   </sub>
 
 ---
 
-![palantirr's Stats](https://github-readme-stats.vercel.app/api?username=palantirr&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
-![palantirr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palantirr&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
-![palantirr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=palantirr&theme=ayu-mirage&hide_border=true)
+![palantirr's Stats](https://github-readme-stats.vercel.app/api?username=Militech&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
+![palantirr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Militech&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+![palantirr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Militech&theme=ayu-mirage&hide_border=true)
 
 ---
