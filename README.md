@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Zoltan
+# Hi there, I'm Zoltan
 
 ## About Me
 - Graduate Software/DevOps Engineer by trade
@@ -27,13 +27,13 @@
 
 <!-- ### Featured Project
 
-- **[Network-Intrusion-Detection](https://github.com/Militech/Network-Intrusion-Detection)**  
+- **[Network-Intrusion-Detection](https://github.com/militech/Network-Intrusion-Detection)**  
   <sub>
     Adapted from my Bachelor of Science dissertation, this project presents a refined approach to intrusion detection, bridging academic research of machine learning and real-world application.
   </sub>
 -->
 ---
-![palantirr's Stats](https://github-readme-stats.vercel.app/api?username=Militech&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
-![palantirr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Militech&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
-![palantirr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Militech&theme=ayu-mirage&hide_border=true)
+![militech's Stats](https://github-readme-stats.vercel.app/api?username=militech&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
+![militech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=militech&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+![militech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=militech&theme=ayu-mirage&hide_border=true)
 ---
