@@ -2,7 +2,7 @@
 
 ## About Me
 - Graduate Software/DevOps Engineer by trade
-- [Qualifications in cybersecurity (BSc Honours, GCIH, GCIA)](https://www.credly.com/users/zoltan-karsai/badges#credly)
+- Qualifications in cybersecurity (BSc Honours, GCIH, GCIA)
 - Currently undertaking postgraduate MSc thesis
 
 ## Worked with:
